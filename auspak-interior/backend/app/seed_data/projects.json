@@ -1,0 +1,488 @@
+[
+  {
+    "slug": "modern-spanish-kitchen",
+    "title": "Modern Spanish Kitchen",
+    "category": "Kitchens",
+    "serviceSlug": "spanish-style-kitchens",
+    "summary": "Spanish-style kitchen with warm wood tones and framed cabinet doors.",
+    "description": "A sample Spanish-style kitchen showing warm wood tones, framed cabinet doors and an arched feature. This is demonstration content that shows the style of kitchen Auspak Interior can build to your room size and requirements.",
+    "mainImage": "/images/project-modern-spanish-kitchen.jpg",
+    "images": [
+      {
+        "src": "/images/project-modern-spanish-kitchen.jpg",
+        "alt": "Modern Spanish Kitchen - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/service-spanish-kitchens.jpg",
+        "alt": "Modern Spanish Kitchen - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-spanish-kitchen.jpg",
+        "alt": "Modern Spanish Kitchen - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/featured-spanish-kitchen.jpg",
+        "alt": "Modern Spanish Kitchen - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-veneer-grain.jpg",
+        "alt": "Modern Spanish Kitchen - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Kitchens"
+      },
+      {
+        "label": "Style",
+        "value": "Spanish style, warm wood tones"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "contemporary-kitchen-design",
+    "title": "Contemporary Kitchen Design",
+    "category": "Kitchens",
+    "serviceSlug": "custom-kitchens",
+    "summary": "Clean-lined contemporary kitchen with handleless cabinets.",
+    "description": "A sample contemporary kitchen with clean lines and handleless cabinet fronts. This is demonstration content. Layout, colours and finishes for a real kitchen are decided with you during consultation.",
+    "mainImage": "/images/project-contemporary-kitchen.jpg",
+    "images": [
+      {
+        "src": "/images/project-contemporary-kitchen.jpg",
+        "alt": "Contemporary Kitchen Design - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/service-custom-kitchens.jpg",
+        "alt": "Contemporary Kitchen Design - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-modern-kitchen.jpg",
+        "alt": "Contemporary Kitchen Design - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/home-hero-kitchen.jpg",
+        "alt": "Contemporary Kitchen Design - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-panoramic-view.jpg",
+        "alt": "Contemporary Kitchen Design - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Kitchens"
+      },
+      {
+        "label": "Style",
+        "value": "Contemporary, handleless fronts"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "custom-bedroom-wardrobe",
+    "title": "Custom Bedroom Wardrobe",
+    "category": "Wardrobes",
+    "serviceSlug": "modern-wardrobes",
+    "summary": "Floor-to-ceiling bedroom wardrobe with glass doors.",
+    "description": "A sample floor-to-ceiling bedroom wardrobe with glass doors and organised storage. This is demonstration content showing the kind of wardrobe that can be made to fit your room.",
+    "mainImage": "/images/project-custom-bedroom-wardrobe.jpg",
+    "images": [
+      {
+        "src": "/images/project-custom-bedroom-wardrobe.jpg",
+        "alt": "Custom Bedroom Wardrobe - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/service-modern-wardrobes.jpg",
+        "alt": "Custom Bedroom Wardrobe - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-wardrobe.jpg",
+        "alt": "Custom Bedroom Wardrobe - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/featured-walk-in-wardrobe.jpg",
+        "alt": "Custom Bedroom Wardrobe - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-storage-layout.jpg",
+        "alt": "Custom Bedroom Wardrobe - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Wardrobes"
+      },
+      {
+        "label": "Style",
+        "value": "Full-height wardrobe with glass doors"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "modern-wooden-interior-doors",
+    "title": "Modern Wooden Interior Doors",
+    "category": "Doors",
+    "serviceSlug": "interior-doors",
+    "summary": "Tall wooden interior door with a fluted wood look.",
+    "description": "A sample tall wooden interior door with a fluted wood look. This is demonstration content. Door sizes, wood types and finishes are confirmed with you during consultation.",
+    "mainImage": "/images/project-modern-wooden-interior-doors.jpg",
+    "images": [
+      {
+        "src": "/images/project-modern-wooden-interior-doors.jpg",
+        "alt": "Modern Wooden Interior Doors - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/service-interior-doors.jpg",
+        "alt": "Modern Wooden Interior Doors - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-door.jpg",
+        "alt": "Modern Wooden Interior Doors - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/featured-fluted-doors.jpg",
+        "alt": "Modern Wooden Interior Doors - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-veneer-grain.jpg",
+        "alt": "Modern Wooden Interior Doors - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Doors"
+      },
+      {
+        "label": "Style",
+        "value": "Wooden door, fluted look"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "classic-framed-island-kitchen",
+    "title": "Classic Framed Island Kitchen",
+    "category": "Kitchens",
+    "serviceSlug": "spanish-style-kitchens",
+    "summary": "Framed-door kitchen with a central island.",
+    "description": "A sample classic kitchen with framed cabinet doors and a central island. This is demonstration content showing a traditional kitchen style.",
+    "mainImage": "/images/project-classic-framed-island-kitchen.jpg",
+    "images": [
+      {
+        "src": "/images/project-classic-framed-island-kitchen.jpg",
+        "alt": "Classic Framed Island Kitchen - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/featured-spanish-kitchen.jpg",
+        "alt": "Classic Framed Island Kitchen - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-spanish-kitchen.jpg",
+        "alt": "Classic Framed Island Kitchen - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/before-after-after.jpg",
+        "alt": "Classic Framed Island Kitchen - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-joinery-main.jpg",
+        "alt": "Classic Framed Island Kitchen - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Kitchens"
+      },
+      {
+        "label": "Style",
+        "value": "Classic framed doors, island layout"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "walk-in-dressing-suite",
+    "title": "Walk-In Dressing Suite",
+    "category": "Wardrobes",
+    "serviceSlug": "modern-wardrobes",
+    "summary": "Walk-in dressing room with hanging space and a central island.",
+    "description": "A sample walk-in dressing room with hanging bays, drawers and a central island. This is demonstration content. A real dressing room is planned around your available space.",
+    "mainImage": "/images/project-walk-in-dressing-suite.jpg",
+    "images": [
+      {
+        "src": "/images/project-walk-in-dressing-suite.jpg",
+        "alt": "Walk-In Dressing Suite - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/featured-walk-in-wardrobe.jpg",
+        "alt": "Walk-In Dressing Suite - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-wardrobe.jpg",
+        "alt": "Walk-In Dressing Suite - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/service-modern-wardrobes.jpg",
+        "alt": "Walk-In Dressing Suite - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-panoramic-view.jpg",
+        "alt": "Walk-In Dressing Suite - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Wardrobes"
+      },
+      {
+        "label": "Style",
+        "value": "Walk-in layout with central island"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "minimalist-matte-charcoal-kitchen",
+    "title": "Minimalist Matte Charcoal Kitchen",
+    "category": "Kitchens",
+    "serviceSlug": "custom-kitchens",
+    "summary": "Dark matte kitchen with handleless, push-to-open cabinets.",
+    "description": "A sample minimalist kitchen in a dark matte charcoal colour with handleless cabinet fronts. This is demonstration content. Colour choices are made with you during consultation.",
+    "mainImage": "/images/project-matte-charcoal-kitchen.jpg",
+    "images": [
+      {
+        "src": "/images/project-matte-charcoal-kitchen.jpg",
+        "alt": "Minimalist Matte Charcoal Kitchen - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/featured-charcoal-kitchen.jpg",
+        "alt": "Minimalist Matte Charcoal Kitchen - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/home-modern-kitchen.jpg",
+        "alt": "Minimalist Matte Charcoal Kitchen - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/service-custom-kitchens.jpg",
+        "alt": "Minimalist Matte Charcoal Kitchen - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-hardware-runners.jpg",
+        "alt": "Minimalist Matte Charcoal Kitchen - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Kitchens"
+      },
+      {
+        "label": "Style",
+        "value": "Matte charcoal, handleless"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "flush-studio-doors",
+    "title": "Flush Interior Doors",
+    "category": "Doors",
+    "serviceSlug": "interior-doors",
+    "summary": "Flush interior doors set neatly into the wall.",
+    "description": "A sample of flush interior doors set neatly into the wall for a clean look. This is demonstration content. Door sizes and finishes are confirmed with you during consultation.",
+    "mainImage": "/images/project-flush-interior-doors.jpg",
+    "images": [
+      {
+        "src": "/images/project-flush-interior-doors.jpg",
+        "alt": "Flush Interior Doors - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/home-door.jpg",
+        "alt": "Flush Interior Doors - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/service-interior-doors.jpg",
+        "alt": "Flush Interior Doors - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/featured-fluted-doors.jpg",
+        "alt": "Flush Interior Doors - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-joinery-main.jpg",
+        "alt": "Flush Interior Doors - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Doors"
+      },
+      {
+        "label": "Style",
+        "value": "Flush doors, clean wall line"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  },
+  {
+    "slug": "dual-tone-fitted-wardrobe",
+    "title": "Dual-Tone Fitted Wardrobe",
+    "category": "Wardrobes",
+    "serviceSlug": "modern-wardrobes",
+    "summary": "Fitted wardrobe wall in two matching tones.",
+    "description": "A sample fitted wardrobe wall in two matching tones with open shelf niches. This is demonstration content showing a built-in wardrobe style.",
+    "mainImage": "/images/project-dual-tone-wardrobe.jpg",
+    "images": [
+      {
+        "src": "/images/project-dual-tone-wardrobe.jpg",
+        "alt": "Dual-Tone Fitted Wardrobe - illustrative image 1",
+        "caption": "Illustrative image 1 of 5"
+      },
+      {
+        "src": "/images/home-wardrobe.jpg",
+        "alt": "Dual-Tone Fitted Wardrobe - illustrative image 2",
+        "caption": "Illustrative image 2 of 5"
+      },
+      {
+        "src": "/images/featured-walk-in-wardrobe.jpg",
+        "alt": "Dual-Tone Fitted Wardrobe - illustrative image 3",
+        "caption": "Illustrative image 3 of 5"
+      },
+      {
+        "src": "/images/service-modern-wardrobes.jpg",
+        "alt": "Dual-Tone Fitted Wardrobe - illustrative image 4",
+        "caption": "Illustrative image 4 of 5"
+      },
+      {
+        "src": "/images/detail-storage-layout.jpg",
+        "alt": "Dual-Tone Fitted Wardrobe - illustrative image 5",
+        "caption": "Illustrative image 5 of 5"
+      }
+    ],
+    "details": [
+      {
+        "label": "Category",
+        "value": "Wardrobes"
+      },
+      {
+        "label": "Style",
+        "value": "Fitted wardrobe, two-tone finish"
+      },
+      {
+        "label": "Project status",
+        "value": "Demonstration project (not a completed customer project)"
+      },
+      {
+        "label": "Materials and finishes",
+        "value": "Selected with you during consultation"
+      }
+    ]
+  }
+]

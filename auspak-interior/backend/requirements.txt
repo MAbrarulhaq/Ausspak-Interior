@@ -1,0 +1,16 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+SQLAlchemy>=2.0,<2.2
+psycopg[binary]>=3.2,<4
+alembic>=1.13,<2
+pydantic>=2.8,<3
+pydantic-settings>=2.4,<3
+email-validator>=2.2,<3
+argon2-cffi>=23.1,<26
+PyJWT>=2.8,<3
+python-multipart>=0.0.9
+Pillow>=10.4
+# tests
+pytest>=8,<9
+httpx>=0.27,<1
+aiosmtpd>=1.4,<2
