@@ -10,14 +10,15 @@ export const siteConfig = {
 
   // Phone numbers. Leave `tel` empty until the real number is known; the UI then shows the placeholder text.
   phones: [
-    { label: 'Office', display: '[Office phone number to be added]', tel: '' },
-    { label: 'Mobile', display: '[Mobile number to be added]', tel: '' },
+    { label: 'Office', display: '03003822377', tel: '' },
+    { label: 'Office', display: '03325281117', tel: '' },
+    { label: 'Email', display: 'arrianhbk@gmail.com', tel: '' },
   ],
 
   // WhatsApp number in international format without "+" or spaces (example: 923001234567).
   // While empty, the WhatsApp button opens WhatsApp with a ready-made message so you can pick a contact.
   whatsappNumber: '923003822377',
-  whatsappPlaceholderLabel: '[WhatsApp number to be added]',
+  whatsappPlaceholderLabel: '[923003822377]',
   whatsappMessage: 'Hello Auspak Interior, I would like to discuss an interior project.',
 } as const;
 
