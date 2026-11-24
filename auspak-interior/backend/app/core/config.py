@@ -11,7 +11,7 @@ class Settings(BaseSettings):
     ENVIRONMENT: str = "development"  # development | test | production
     DATABASE_URL: str = "postgresql+psycopg://neondb_owner:npg_TZ*******4@ep-steep-brook-biiwee7j-pooler.c-5.ap-southeast-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
     CORS_ORIGINS: str = "http://localhost:5173,http://127.0.0.1:5173"
-    FRONTEND_URL: str = "https://ausspak-interior.vercel.app/track-order"
+    FRONTEND_URL: str = "https://ausspak-interior.vercel.app"
 
     # Business contact details (public; returned by GET /api/v1/site/contact so the frontend does not hardcode them)
     BUSINESS_NAME: str = "Auspak Interior"
