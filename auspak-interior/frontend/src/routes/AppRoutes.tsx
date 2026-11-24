@@ -1,10 +1,11 @@
+
 import { Route, Routes } from 'react-router-dom';
 import MainLayout from '../layouts/MainLayout';
 import RequireRole from '../components/auth/RequireRole';
 import HomePage from '../pages/HomePage';
 import ServicesPage from '../pages/ServicesPage';
-import ProjectsPage from '../pages/ProjectsPage';
-import ProjectDetailPage from '../pages/ProjectDetailPage';
+// import ProjectsPage from '../pages/ProjectsPage';
+// import ProjectDetailPage from '../pages/ProjectDetailPage';
 import AboutPage from '../pages/AboutPage';
 import ContactPage from '../pages/ContactPage';
 import TrackOrderPage from '../pages/TrackOrderPage';
@@ -38,11 +39,16 @@ export default function AppRoutes() {
         <Route path="designs/:id" element={<RequireRole roles={['admin']}><AdminDesignEdit /></RequireRole>} />
         <Route path="users" element={<RequireRole roles={['admin']}><AdminUsers /></RequireRole>} />
       </Route>
+
       <Route element={<MainLayout />}>
         <Route path="/" element={<HomePage />} />
         <Route path="/services" element={<ServicesPage />} />
+
+        {/* Projects pages temporarily disabled
         <Route path="/projects" element={<ProjectsPage />} />
         <Route path="/projects/:slug" element={<ProjectDetailPage />} />
+        */}
+
         <Route path="/about" element={<AboutPage />} />
         <Route path="/contact" element={<ContactPage />} />
         <Route path="/track-order" element={<TrackOrderPage />} />
