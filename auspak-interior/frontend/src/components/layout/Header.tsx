@@ -7,7 +7,7 @@ import { homeFor, useAuth } from '../../context/AuthContext';
 export const navItems = [
   { to: '/', label: 'Home', end: true },
   { to: '/services', label: 'Our Services' },
-  { to: '/projects', label: 'Our Projects' },
+  // { to: '/projects', label: 'Our Projects' },
   { to: '/about', label: 'About Us' },
   { to: '/track-order', label: 'Track Order' },
 ];
