@@ -62,7 +62,7 @@ export default function Header() {
           {/* Right: Studio and WhatsApp */}
           <div className="flex items-center gap-3 sm:gap-6">
             <span className="hidden sm:block text-[#d4af37] tracking-wider">
-              Atelier & Millwork Studio
+              Interior Design & Custom Woodwork
             </span>
 
             <a
