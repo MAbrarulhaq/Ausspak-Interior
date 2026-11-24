@@ -377,7 +377,9 @@ export default function HomePage() {
 
         {/* FEATURED PROJECTS */}
 
+        {/*
         <FeaturedProjects />
+        */}
 
         {/* BEFORE AND AFTER */}
 
